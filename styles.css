@@ -4,10 +4,12 @@ body {
     font-size: 16px;
   }
   
+
   header {
     background-color: #333;
     color: #fff;
-    padding: 10px;
+    padding: 20px;
+    font-size: x-large;
   }
   
   nav ul {
@@ -38,7 +40,7 @@ body {
     background-position: center;
     text-align: center;
     padding: 100px 0;
-    color: #fff;
+    color: #0c0b0b;
   }
   
   .hero h2 {
